@@ -16,4 +16,3 @@ for el in lst:
 print(sorted(new_lst, reverse=True))
 
 
-
