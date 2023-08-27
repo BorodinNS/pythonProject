@@ -9,7 +9,7 @@
 """
 
 class Rectangle:
-
+    """Класс позволяет складывать и вычитать периметры треугольников"""
     def __init__(self, side_a, side_b=0):
         self.side_a = side_a
         if side_b == 0:

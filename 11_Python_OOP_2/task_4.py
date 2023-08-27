@@ -6,6 +6,7 @@
 """
 
 class Archive:
+    """Класс сохраняет в архиве атрибуты созданных эксземпляров класса (Переопределены методы __str__ и __repr__)"""
     nums_archive = []
     strs_archive = []
     last_num = None
